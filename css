@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond');
+
+TW-story{
+  font-family: 'Amiri';
+  	background: linen;
+  color: black;
+}
+
+tw-sidebar{
+  color:Black;
+}
+
+tw-link {
+  color: Maroon;
+}
+
+tw-link: hover {
+  color: Maroon;
+}
+
+tw-link: visited {
+  color: LemonChiffon;
+}
+
+.ginger {
+	color: tan;
+	border-style: solid;
+	border-width: 1px;	  
+}
+
+[tags="home"]{
+  background:LightSteelBlue;
+}
+
+[tags="spice"]{
+  background:BlanchedAlmond;
+}
+
+[tags="savory"]{
+  background:LightGrey;
+}
+
+[tags="sweet"]{
+  background:AliceBlue;
+}
+
+#sidebar:{display:Menu;}
+
+#cover {
+  Width:500px;
+  Height:750px;
+}
+
+#saleratus1 {
+  Width:500px;
+  Height:750px;
+}
+
+
